@@ -1,5 +1,6 @@
 
 #  Olá, Bem vindo ao meu projeto de AudioBook.
+#Rota para visualização : https://audiobook-gamma.vercel.app/
 
 ![image](https://github.com/TaislaineMassucato/audiobook/assets/104451227/f432b15f-c4ba-46b0-8f15-77ee6641de43)
 
